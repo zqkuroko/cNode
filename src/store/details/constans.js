@@ -1,0 +1,3 @@
+export const DETAILS_UPDATA = "details/DETAILS_UPDATA";
+export const DETAILS_UPDATA_SUCC = "details/DETAILS_UPDATA_SUCC";
+export const DETAILS_UPDATA_ERROR = "details/DETAILS_UPDATA_ERROR";
